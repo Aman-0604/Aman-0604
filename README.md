@@ -8,6 +8,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
 - 🌱 I’m currently learning about Data Structures , Algorithms , React
 - 👯 I’m looking to collaborate on Cpp projects and Web Dev projects
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
+- 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
