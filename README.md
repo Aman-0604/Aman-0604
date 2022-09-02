@@ -17,8 +17,8 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ag0604/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aman_Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/amangupta.2003/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amangupta.2003" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ag0604/" target="_blank" style="color : grey"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aman_Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/amangupta.2003/" target="_blank" style="color : grey"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amangupta.2003" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
 
