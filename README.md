@@ -2,19 +2,18 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Aman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Techonological University 👨‍🎓
 
 - 🌱 I’m currently learning about Data Structures , Algorithms , React
 - 👯 I’m looking to collaborate on Cpp projects and Web Dev projects
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
+- 📫 How to reach me: Mail me at techbugaman@gmail.com
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
 ### Some Stats About Aman (Public Only)
 <p align="center" >
-<img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=Aman-0604&show_icons=true&theme=merko"  > </p>
+<img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=Aman-0604&show_icons=true&theme=merko"> </p>
 
 
 <p align="center">
