@@ -1,26 +1,60 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
-
-
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Aman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aman Gupta</h2>
+<h4 align="center">A passionate developer and a Geek.</h4>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Techonological University 👨‍🎓
 
+- 🔭 Most Recent Project [iNotebook](https://github.com/Aman-0604/iNotebook-Notebook-on-cloud)
 - 🌱 I’m currently learning about Data Structures , Algorithms , React
 - 👯 I’m looking to collaborate on Cpp projects and Web Dev projects
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
 - 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
+## 🛠️ Tried hands on
 
-### Some Stats About Aman (Public Only)
-<p align="center" >
-<img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=Aman-0604&show_icons=true&theme=merko"> </p>
+### 👨‍💻 Programming and markup languages
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ag0604/" target="_blank" style="color : grey"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aman_Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/amangupta.2003/" target="_blank" style="color : grey"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amangupta.2003" height="25" width="25" /></a>&nbsp;&nbsp;
+<p>
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24">
+    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="24">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24">
 </p>
 
+### 🧰 Frameworks and libraries
 
-⭐️ From [Aman-0604](https://github.com/Aman-0604)
+<p>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24">
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24">
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="24">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="24">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24">
+</p>
+
+<hr />
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-0604&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Aman's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-0604&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
+| ------------- | ------------- |
+
+<hr />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ag0604/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aman_Gupta" height="25" width="25"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/amangupta.2003/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amangupta.2003" height="25" width="25"/></a>&nbsp;&nbsp;
+</p>
