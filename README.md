@@ -49,11 +49,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
 
 <hr />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-0604&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Aman's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-0604&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
-| ------------- | ------------- |
-
-<hr />
-
 <p align="center">
 <a href="https://www.linkedin.com/in/ag0604/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aman_Gupta" height="25" width="25"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/amangupta.2003/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amangupta.2003" height="25" width="25"/></a>&nbsp;&nbsp;
