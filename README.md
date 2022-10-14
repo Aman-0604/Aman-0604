@@ -3,7 +3,7 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Techonological University 👨‍🎓
 
-- 🔭 Most Recent Project [Tagit](https://github.com/Aman-0604/Tagit)
+- 🔭 Most Recent Project [Printit](https://github.com/Aman-0604/Printit)
 - 🌱 I’m currently learning about Data Structures , Algorithms , React
 - 👯 I’m looking to collaborate on Cpp projects and Web Dev projects
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
