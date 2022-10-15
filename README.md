@@ -4,6 +4,7 @@
 I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Techonological University 👨‍🎓
 
 - 🔭 Most Recent Project [Paintit](https://github.com/Aman-0604/Paintit)
+- 🏆 Recently participated in Hacktoberfest and was among first 40,000 participants whose first 4 PR's got merged.
 - 🌱 I’m currently learning about Data Structures , Algorithms , React
 - 👯 I’m looking to collaborate on Cpp projects and Web Dev projects
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
