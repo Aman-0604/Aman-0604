@@ -5,8 +5,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
 
 - 🔭 Most Recent Project [Paintit](https://github.com/Aman-0604/Paintit)
 - 🏆 Recently participated in Hacktoberfest and was among first 40,000 participants whose first 4 PR's got merged.
-- 🌱 I’m currently learning about Data Structures , Algorithms , React
-- 👯 I’m looking to collaborate on Cpp projects and Web Dev projects
+- 👯 I’m looking to collaborate on C++ projects and Web Dev projects
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
 - 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
 - 🤩 Wanna see my website : https://aman-0604.github.io/Portfolio-Website/
@@ -39,6 +38,8 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
 <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" height="24">
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24">
 </p>
 
 ### 💻 Software and tools
