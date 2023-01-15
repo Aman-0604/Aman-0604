@@ -3,9 +3,9 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Techonological University 👨‍🎓
 
-- 🔭 Most Recent Project [Paintit](https://github.com/Aman-0604/Paintit)
+- 🔭 Most Recent Project [PlagX](https://github.com/Aman-0604/PlagX)
 - 🏆 Recently participated in Hacktoberfest and was among first 40,000 participants whose first 4 PR's got merged.
-- 👯 I’m looking to collaborate on C++ projects and Web Dev projects
+- 👯 I’m looking to collaborate on C++, Web Dev , ML and software engineering related projects.
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
 - 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
 - 🤩 Wanna see my website : https://aman-0604.github.io/Portfolio-Website/
