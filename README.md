@@ -32,6 +32,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0B1120?logo=tailwindcss" height="24">
 </p>
 
 ### 🗄️ Databases and cloud hosting
