@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aman Gupta</h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Techonological University 👨‍🎓
+I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Technological University 👨‍🎓
 
 - 🔭 Most Recent Project [DeCyber](https://github.com/Aman-0604/DeCyber-Aman)
 - 🏆 Recently participated in Hacktoberfest and was among first 40,000 participants whose first 4 PR's got merged.
