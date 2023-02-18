@@ -42,6 +42,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" height="24">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-010101.svg?logo=vercel&logoColor=white" height="24">
 </p>
 
 ### 💻 Software and tools
