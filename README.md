@@ -3,7 +3,7 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi Technological University 👨‍🎓
 
-- 🔭 Most Recent Project [DeCyber](https://github.com/Aman-0604/DeCyber-Aman)
+- 🔭 Most Recent Project [DeCyber](https://decyber.vercel.app/)
 - 🏆 Recently participated in Hacktoberfest and was among first 40,000 participants whose first 4 PR's got merged.
 - 👯 I’m looking to collaborate on C++, Web Dev , ML and Software Engineering related projects.
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
