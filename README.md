@@ -40,6 +40,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
 <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24">
+    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-3d6e93.svg?logo=mysql&logoColor=white" height="24">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" height="24">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-010101.svg?logo=vercel&logoColor=white" height="24">
@@ -52,6 +53,8 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a Sophomore at Delhi T
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="24">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6C37?logo=firebase" height="24">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300c4cc.svg?logo=canva&logoColor=white" height="24">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" height="24">
 </p>
 
 <hr />
