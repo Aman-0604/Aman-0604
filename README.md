@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aman Gupta</h2>
 <h4 align="center">A passionate developer and a geek.</h4>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently a 3rd Year Student at Delhi Technological University 👨‍🎓
+Currently a Pre-Final Year Student at Delhi Technological University majoring in Software Engineering. 👨‍🎓
 
 - 🔭 Most Recent Project [DeCyber](https://decyber.vercel.app/)
 - 🏆 Participated in Hacktoberfest, an open-source contribution challenge, placing among the top 40,000 participants.
@@ -55,13 +55,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a 3rd Year Student at 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6C37?logo=firebase" height="24">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300c4cc.svg?logo=canva&logoColor=white" height="24">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" height="24">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-03599C.svg?logo=docker&logoColor=white" height="24">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white" height="24">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFFFFF.svg?logo=jupyter" height="24">
-</p>
-
-<hr />
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ag0604/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aman_Gupta" height="25" width="25"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/amangupta.2003/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amangupta.2003" height="25" width="25"/></a>&nbsp;&nbsp;
 </p>
