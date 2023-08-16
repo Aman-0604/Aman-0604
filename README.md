@@ -1,10 +1,10 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aman Gupta</h2>
-<h4 align="center">A passionate developer and a Geek.</h4>
+<h4 align="center">A passionate developer and a geek.</h4>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently a 3rd Year Student at Delhi Technological University 👨‍🎓
 
 - 🔭 Most Recent Project [DeCyber](https://decyber.vercel.app/)
-- 🏆 Recently participated in Hacktoberfest and was among first 40,000 participants whose first 4 PR's got merged.
+- 🏆 Participated in Hacktoberfest, an open-source contribution challenge, placing among the top 40,000 participants.
 - 👯 I’m looking to collaborate on C++, Web Dev , ML and Software Engineering related projects.
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
 - 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
@@ -55,6 +55,8 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently a 3rd Year Student at 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6C37?logo=firebase" height="24">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300c4cc.svg?logo=canva&logoColor=white" height="24">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" height="24">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-03599C.svg?logo=docker&logoColor=white" height="24">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFFFFF.svg?logo=jupyter" height="24">
 </p>
 
 <hr />
