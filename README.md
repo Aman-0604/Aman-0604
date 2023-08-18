@@ -1,5 +1,5 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aman Gupta</h2>
-<h4 align="center">A passionate developer and a geek.</h4>
+<h4 align="center">A passionate programmer keen to learn and grow.</h4>
 
 Currently a Pre-Final Year Student at Delhi Technological University majoring in Software Engineering. 👨‍🎓
 
