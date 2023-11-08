@@ -4,7 +4,6 @@
 Currently a Pre-Final Year Student at Delhi Technological University majoring in Software Engineering. 👨‍🎓
 
 - 🔭 Most Recent Project [DeCyber](https://decyber.vercel.app/)
-- 🏆 Participated in Hacktoberfest, an open-source contribution challenge, placing among the top 40,000 participants.
 - 👯 I’m looking to collaborate on C++, Web Dev , ML and Software Engineering related projects.
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
 - 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
@@ -24,6 +23,8 @@ Currently a Pre-Final Year Student at Delhi Technological University majoring in
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24">
     <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=Typescript&logoColor=black&labelColor=blue&color=blue" height="24">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636?logo=Solidity&logoColor=%239387DC&labelColor=%232B247C&color=%232B247C" height="24">
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -57,4 +58,6 @@ Currently a Pre-Final Year Student at Delhi Technological University majoring in
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" height="24">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white" height="24">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFFFFF.svg?logo=jupyter" height="24">
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%234A4A4A?logo=Sublime%20Text&logoColor=%23FF9800&labelColor=%234A4A4A&color=%234A4A4A" height="24">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?logo=IntelliJ%20IDEA&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000" height="24">
 </p>
