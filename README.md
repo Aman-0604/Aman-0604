@@ -3,7 +3,6 @@
 
 Currently a Pre-Final Year Student at Delhi Technological University majoring in Software Engineering. 👨‍🎓
 
-- 🔭 Most Recent Project [DeCyber](https://decyber.vercel.app/)
 - 👯 I’m looking to collaborate on C++, Web Dev , ML and Software Engineering related projects.
 - 📫 How to reach me: Mail me at techbugaman@gmail.com
 - 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
