@@ -1,12 +1,8 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aman Gupta</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste), I'm Aman Gupta</h2>
 <h4 align="center">A passionate programmer keen to learn and grow.</h4>
 
-Currently a Final Year Student at Delhi Technological University majoring in Software Engineering. 👨‍🎓
-
-- 👯 I’m looking to collaborate on C++, Web Dev , ML and Software Engineering related projects.
-- 📫 How to reach me: Mail me at techbugaman@gmail.com
-- 🧵 How to connect with me : My linkedin profile : https://www.linkedin.com/in/ag0604/
-- 🤩 Wanna see my website : https://aman-portfolio-website.vercel.app/
+- 🧵 My linkedin profile : https://www.linkedin.com/in/ag0604/
+- 🤩 Wanna see my portfolio : https://aman-portfolio-website.vercel.app/
 
 ## 🛠️ Tried hands on
 
@@ -50,6 +46,7 @@ Currently a Final Year Student at Delhi Technological University majoring in Sof
 ### 💻 Software and tools
 
 <p>
+    <img alt="Git" src="https://img.shields.io/badge/Gitlab-3A383F.svg?logo=gitlab&logoColor=orange" height="24">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="24">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="24">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24">
