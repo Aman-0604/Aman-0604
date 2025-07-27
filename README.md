@@ -58,3 +58,8 @@
     <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%234A4A4A?logo=Sublime%20Text&logoColor=%23FF9800&labelColor=%234A4A4A&color=%234A4A4A" height="24">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?logo=IntelliJ%20IDEA&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000" height="24">
 </p>
+
+<h2 align="center">Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
